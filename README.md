@@ -1,20 +1,50 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🌐 AI Language Translator
 
-# Run and deploy your AI Studio app
+An AI-powered Language Translator built using **React**, **TypeScript**, **Tailwind CSS**, and **Express** as part of my **CodeAlpha AI Internship**.
 
-This contains everything you need to run your app locally.
+## 🚀 Features
 
-View your app in AI Studio: https://ai.studio/apps/540b19b2-e31e-4300-9d88-876327ff2077
+- 🌍 Translate text between multiple languages
+- 🔄 Swap source and target languages
+- 📋 Copy translated text
+- 🔊 Text-to-Speech
+- 🌙 Dark Mode
+- 📜 Translation History
+- 📱 Responsive Design
 
-## Run Locally
+## 🛠️ Tech Stack
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Tailwind CSS
+- Express
+- Vite
 
+## 📷 Screenshots
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### Home Page
+
+![Home](screenshots/home.png)
+
+### Translation
+
+![Translation](screenshots/translation.png)
+
+### Dark Mode
+
+![Dark Mode](screenshots/darkmode.png)
+
+### History
+
+![History](screenshots/history.png)
+
+## ⚙️ Installation
+
+```bash
+npm install
+npm run dev
+```
+
+## 👨‍💻 Author
+
+**Faisal K**
