@@ -30,9 +30,6 @@ An AI-powered Language Translator built using **React**, **TypeScript**, **Tailw
 
 ![Translation](screenshots/translation.png)
 
-### Dark Mode
-
-![Dark Mode](screenshots/darkmode.png)
 
 ### History
 
