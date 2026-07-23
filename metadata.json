@@ -1,0 +1,6 @@
+{
+  "name": "LINGUA AI",
+  "description": "A modern AI-powered language translator supporting 50+ languages with auto-detection, text-to-speech, translation history, dark/light mode, and custom tones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
